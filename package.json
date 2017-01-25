@@ -1,0 +1,23 @@
+{
+  "name": "gulp-dist",
+  "version": "0.0.0",
+  "description": "Gulp script - Export and minify static website with assets to a specific directory",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-concat": "~2.6.0",
+    "gulp-filter": "^5.0.0",
+    "gulp-jshint": "~1.11.2",
+    "gulp-rename": "~1.2.2",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-replace": "^0.4.3",
+    "gulp-uglify": "~1.4.2",
+    "gulp-uglifycss": "^1.0.4",
+    "gulp-useref": "^1.3.0"
+  }
+}

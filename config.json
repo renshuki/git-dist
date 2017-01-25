@@ -1,0 +1,6 @@
+{
+  "srcCSSFolder" : "css/*.css",
+  "srcJSFolder" : "js/*.js",
+  "srcHTMLFolder" : "html/*.html",
+  "distFolder" : "dist/"
+}
