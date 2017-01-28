@@ -1,4 +1,4 @@
-# git-dist
+# gulp-dist
 Gulp script - Export and minify static website with assets to a specific directory
 
 ## Setup
